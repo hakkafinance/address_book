@@ -12,11 +12,11 @@
   
   "Uniswap_Pool": "0x9c5999653F44672336C2ef0A0008587fA8b9957E",
   
-  "Balancer_Pool_BHS_DAI_USDC_HAKKA": "0x1B8874BaceAAfba9eA194a625d12E8b270D77016",
+  "Balancer_Pool_BHSc$_DAI_USDC_HAKKA": "0x1B8874BaceAAfba9eA194a625d12E8b270D77016",
   
-  "Balancer_Pool_BHS_HAKKA": "0xae95d3198d602acfb18f9188d733d710e14a27dd",
+  "Balancer_Pool_BHSc$_HAKKA": "0xae95d3198d602acfb18f9188d733d710e14a27dd",
   
-  "BlackHoleSwap": "0x35101c731b1548B5e48bb23F99eDBc2f5c341935",
+  "BlackHoleSwap(BHSc$)": "0x35101c731b1548B5e48bb23F99eDBc2f5c341935",
   
   "Reward Pool 1": "0x6b1ecbbd69eeaf8d089bdce4daaa4165f8c3ff11",
   
