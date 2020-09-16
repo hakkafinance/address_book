@@ -8,7 +8,7 @@
 | Burner     | 0xde02313f8BF17f31380c63e41CDECeE98Bc2b16d     |
 | Uniswap_Pool     | 0x9c5999653F44672336C2ef0A0008587fA8b9957E     |
 | Balancer_Pool_BHSc$_DAI_USDC_HAKKA     | 0x1B8874BaceAAfba9eA194a625d12E8b270D77016     |
-| Balancer_Pool_BHSc$_HAKKA     | 0xae95d3198d602acfb18f9188d733d710e14a27dd     |
+| Balancer_Pool_BHSc$_HAKKA     |0xaE95D3198d602acFB18F9188d733d710e14A27Dd     |
 | Uniswap_Pool_MKR_HAKKA     | 0xB8b84Ce0CAde916988BD129EaFd7934ADE5Fa6a9     |
 | BlackHoleSwap(BHSc$)     | 0x35101c731b1548B5e48bb23F99eDBc2f5c341935     |
 | Reward Pool 1     | 0x6B1EcBbD69EEaF8d089bDCe4dAAa4165f8C3Ff11     |
