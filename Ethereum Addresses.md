@@ -1,4 +1,4 @@
-# Address Book
+# Ethereum Address Book
 
 | Title | Address |
 | -------- | -------- |
