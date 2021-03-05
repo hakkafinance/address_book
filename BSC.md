@@ -6,3 +6,5 @@
 | BlackHoleSwap v2     | 0x75192D6f3d51554CC2eE7B40C3aAc5f97934ce7E     |
 | VestingVault     | 0x6dbff20CAFf68B99b1e67B50D14A9D7BBdfA94DC     |
 | pot     | 0xfD091F4D523f9741Aa0712e57bd590FF2F30bD94     |
+| USDT-BUSD BHS Reward Pool     | 0xfD091F4D523f9741Aa0712e57bd590FF2F30bD94     |
+| Hakka Harvester (BUSD-BNB Cake LP) Reward Pool     | 0x6a3093dc9097fe54c02ffaeb64b6e3a52f4642c8     |
