@@ -7,4 +7,7 @@
 | VestingVault     | 0x6dbff20CAFf68B99b1e67B50D14A9D7BBdfA94DC     |
 | pot     | 0xfD091F4D523f9741Aa0712e57bd590FF2F30bD94     |
 | USDT-BUSD BHS Reward Pool     | 0x79EB6F02E9aC26a6fbc4e73DEE0b8991D0c55F4a     |
-| Hakka Harvester (BUSD-BNB Cake LP) Reward Pool     | 0x6a3093dc9097Fe54C02fFaeB64B6e3A52f4642C8     |
+| Hakka Harvester (BUSD-BNB <Cake LP>) Reward Pool     | 0x6a3093dc9097Fe54C02fFaeB64B6e3A52f4642C8     |
+| Hakka Harvester (ibBUSD <Alpaca>) Reward Pool     | 0x4D5054708982e96F284D02c7a46F31d6f7291C56     |
+| Hakka Harvester (ibBNB <Alpaca>) Reward Pool     | 0x992c0170E5F0352a8Af39d95Dc15FB5EDcEd852C     |
+| Hakka Harvester (Alpaca-wBNB <Cake LP>) Reward Pool     | 0xCb2131C9D1381c38282C006EAa56DE26BD99888E     |
