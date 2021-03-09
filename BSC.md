@@ -11,3 +11,4 @@
 | Hakka Harvester (ibBUSD Alpaca) Reward Pool     | 0x4D5054708982e96F284D02c7a46F31d6f7291C56     |
 | Hakka Harvester (ibBNB Alpaca) Reward Pool     | 0x992c0170E5F0352a8Af39d95Dc15FB5EDcEd852C     |
 | Hakka Harvester (Alpaca-BNB Cake LP) Reward Pool     | 0xCb2131C9D1381c38282C006EAa56DE26BD99888E     |
+| Hakka Harvester (Cake-BNB Cake LP) Reward Pool     | 0x3792ee68E736b8214D4eDC91b1B3340B525e00BF     |
