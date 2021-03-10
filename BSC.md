@@ -2,7 +2,7 @@
 
 | Title | Address | Link |
 | -------- | -------- | -------- |
-| HAKKA on xDai on BSC     | 0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC     |  [<img src="https://miro.medium.com/max/3150/1*RbK1YYzgQg6uni0TXU4Ghw.png">](https://bscscan.com/address/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac)  |
+| HAKKA on xDai on BSC     | 0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC     |  [<img src="https://i.imgur.com/2FowNV1.png">](https://bscscan.com/address/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac)  |
 | BlackHoleSwap v2     | 0x75192D6f3d51554CC2eE7B40C3aAc5f97934ce7E     |  [🔗](https://bscscan.com/address/0x75192D6f3d51554CC2eE7B40C3aAc5f97934ce7E)  |
 | VestingVault     | 0x6dbff20CAFf68B99b1e67B50D14A9D7BBdfA94DC     |  [🔗](https://bscscan.com/address/0x6dbff20caff68b99b1e67b50d14a9d7bbdfa94dc)  |
 | pot     | 0xfD091F4D523f9741Aa0712e57bd590FF2F30bD94     |  [🔗](https://bscscan.com/address/0xfd091f4d523f9741aa0712e57bd590ff2f30bd94)  |
