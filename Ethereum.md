@@ -1,9 +1,9 @@
 # Ethereum Address Book
 
-| Title | Address |
-| -------- | -------- |
-| DEPLOYER     | 0x1D075f1F543bB09Df4530F44ed21CA50303A65B2     |
+| Title | Address | Link |
+| -------- | -------- | -------- |
 | HAKKA_Token     | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd     |
+| DEPLOYER     | 0x1D075f1F543bB09Df4530F44ed21CA50303A65B2     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x1D075f1F543bB09Df4530F44ed21CA50303A65B2)  |
 | GuildBank     | 0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7     |
 | Burner     | 0xde02313f8BF17f31380c63e41CDECeE98Bc2b16d     |
 | Uniswap_Pool     | 0x9c5999653F44672336C2ef0A0008587fA8b9957E     |
