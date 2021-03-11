@@ -12,3 +12,4 @@
 | Hakka Harvester (ibBNB Alpaca) Reward Pool     | 0x992c0170E5F0352a8Af39d95Dc15FB5EDcEd852C     |  [<img src="https://i.imgur.com/8qp1bnw.png">](https://bscscan.com/address/0x992c0170E5F0352a8Af39d95Dc15FB5EDcEd852C)  |
 | Hakka Harvester (Alpaca-BNB Cake LP) Reward Pool     | 0xCb2131C9D1381c38282C006EAa56DE26BD99888E     |  [<img src="https://i.imgur.com/8qp1bnw.png">](https://bscscan.com/address/0xcb2131c9d1381c38282c006eaa56de26bd99888e)  |
 | Hakka Harvester (Cake-BNB Cake LP) Reward Pool     | 0x3792ee68E736b8214D4eDC91b1B3340B525e00BF     |  [<img src="https://i.imgur.com/8qp1bnw.png">](https://bscscan.com/address/0x3792ee68E736b8214D4eDC91b1B3340B525e00BF)  |
+| Hakka Harvester (Belt.fi bDAI/bUSDC/bUSDT/bBUSD LP Token) Reward Pool     | 0x8bA1c31cb3C51889C5699Fb8121e3c01DBC53B96     |  [<img src="https://i.imgur.com/8qp1bnw.png">](https://bscscan.com/address/0x8bA1c31cb3C51889C5699Fb8121e3c01DBC53B96)  |
