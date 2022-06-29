@@ -4,6 +4,7 @@
 | -------- | -------- | -------- |
 | HAKKA_Token     | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd)  |
 | sHAKKA     | 0xd9958826Bce875A75cc1789D5929459E6ff15040     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0xd9958826Bce875A75cc1789D5929459E6ff15040)  |
+| sHAKKA v2    | 0xB925863a15eBdEAE1a638BF2B6Fd00D4db897A62     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/token/0xb925863a15ebdeae1a638bf2b6fd00d4db897a62)  |
 | Uniswap_Pool_ETH_HAKKA     | 0x9c5999653F44672336C2ef0A0008587fA8b9957E     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x9c5999653F44672336C2ef0A0008587fA8b9957E)  |
 | DEPLOYER     | 0x1D075f1F543bB09Df4530F44ed21CA50303A65B2     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x1D075f1F543bB09Df4530F44ed21CA50303A65B2)  |
 | GuildBank     | 0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7)  |
@@ -24,3 +25,4 @@
 | Reward Pool_MKR_HAKKA_Uni LP     | 0x3BD145F66203B19CE7BeDaAC9A8147E08EA64645     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x3BD145F66203B19CE7BeDaAC9A8147E08EA64645)  |
 | Reward Pool_TFT     | 0x0AA6C4Ff04e4E6512c5348f4B04685af2Cd11058     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x0AA6C4Ff04e4E6512c5348f4B04685af2Cd11058)  |
 | sHAKKA Reward Pool     | 0xF4D1F9674c8e9f29A69DC2E6f841292e675B7977     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0xF4D1F9674c8e9f29A69DC2E6f841292e675B7977)  |
+| sHAKKA Reward Pool v2    | 0x735A80510536a9A18c8824f40DBc92824640c95a     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x735a80510536a9a18c8824f40dbc92824640c95a)  |
