@@ -4,7 +4,7 @@
 | -------- | -------- | -------- |
 | HAKKA_Token     | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd)  |
 | sHAKKA     | 0xd9958826Bce875A75cc1789D5929459E6ff15040     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0xd9958826Bce875A75cc1789D5929459E6ff15040)  |
-| sHAKKA v2    | 0xB925863a15eBdEAE1a638BF2B6Fd00D4db897A62     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/token/0xb925863a15ebdeae1a638bf2b6fd00d4db897a62)  |
+| sHAKKA v2    | 0xB925863a15eBdEAE1a638BF2B6Fd00D4db897A62     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0xb925863a15ebdeae1a638bf2b6fd00d4db897a62)  |
 | Uniswap_Pool_ETH_HAKKA     | 0x9c5999653F44672336C2ef0A0008587fA8b9957E     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x9c5999653F44672336C2ef0A0008587fA8b9957E)  |
 | DEPLOYER     | 0x1D075f1F543bB09Df4530F44ed21CA50303A65B2     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x1D075f1F543bB09Df4530F44ed21CA50303A65B2)  |
 | GuildBank     | 0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7     |  [<img src="https://i.imgur.com/2p4MOBR.png">](https://etherscan.io/address/0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7)  |
